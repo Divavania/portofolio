@@ -180,12 +180,12 @@ $projects = [
                     <span>↗</span>
                 </a>
 
-                <a href="assets/cv/Diva-Vania-Candrawati-CV.pdf"
+                <!-- <a href="assets/cv/Diva-Vania-Candrawati-CV.pdf"
                    class="btn btn-outline"
                    target="_blank">
                     Download CV
                     <span>↓</span>
-                </a>
+                </a> -->
 
             </div>
 
