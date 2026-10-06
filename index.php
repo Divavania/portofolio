@@ -1234,22 +1234,13 @@ $projects = [
 
 
         <div class="contact-links">
-
-            <a href="#" target="_blank">
+            <a href="https://www.linkedin.com/in/diva-vania-candrawati-5a7456423" target="_blank" rel="noopener noreferrer">
                 LinkedIn
             </a>
 
-            <a href="#" target="_blank">
+            <a href="https://github.com/Divavania" target="_blank" rel="noopener noreferrer">
                 GitHub
             </a>
-
-            <a
-                href="assets/cv/Diva-Vania-Candrawati-CV.pdf"
-                target="_blank"
-            >
-                CV
-            </a>
-
         </div>
 
     </div>
